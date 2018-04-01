@@ -13,6 +13,8 @@ namespace ConsoleApp1
             // Code was added in the github
             // Code was edited again in the github
 
+            Console.WriteLine("Keep up your practice with the github!");
+
         }
     }
 }
